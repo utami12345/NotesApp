@@ -11,6 +11,6 @@ Pastikan:
 -JDK 11 atau yang kompatibel
 -Koneksi internet untuk unduh dependency
 
-4.Pilih emulator atau perangkat fisik.
+4. Pilih emulator atau perangkat fisik.
 
 5. Klik Run ▶ untuk menjalankan aplikasi.
