@@ -1,6 +1,6 @@
 PANDUAN INSTALASI
 1. Clone repository ini:
-   git clone https://github.com/username/notesutami.git
+   git clone https://github.com/utami12345/NotesApp.git
 atau download ZIP dan ekstrak.
 
 2. Buka folder proyek di Android Studio.
